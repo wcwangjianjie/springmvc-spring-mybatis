@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.wjj.system.user.dao.UserDao">
+    <select id="findById" resultType="User">
+        SELECT * FROM USER
+        WHERE  id = #{id} limit 1
+    </select>
+
+    <select id="findByUsername" resultType="User">
+        SELECT * FROM USER
+        WHERE username = #{username} limit 1
+    </select>
+
+    <select id="findAll" resultType="User">
+        SELECT * FROM USER
+        ORDER BY id
+        limit #{offset}, #{limit}
+    </select>
+</mapper>
