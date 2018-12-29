@@ -23,7 +23,7 @@
     <!-- BEGIN PAGE LEVEL STYLES -->
     <link href="resources/css/login.min.css" rel="stylesheet" type="text/css" />
     <!-- END PAGE LEVEL STYLES -->
-    <link rel="shortcut icon" href="favicon.ico" />
+    <link rel="shortcut icon" href="../resources/favicon.ico" />
 </head>
 <body class="login">
 <!-- BEGIN LOGO -->

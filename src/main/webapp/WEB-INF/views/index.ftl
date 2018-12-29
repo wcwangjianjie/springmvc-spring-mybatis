@@ -10,7 +10,7 @@
     <meta name="description" content="template">
     <meta name="keywords" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="shortcut icon" href="../resources/favicon.ico">
     <link href="key_logo_re.png" rel="apple-touch-icon-precomposed">
     <meta name="apple-mobile-web-app-title" content="">
     <meta name="apple-mobile-web-app-capable" content="yes">

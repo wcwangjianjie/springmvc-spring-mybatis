@@ -13,23 +13,23 @@
     <meta content="" name="description" />
     <meta content="" name="author" />
     <!-- BEGIN GLOBAL MANDATORY STYLES -->
-    <link href="resources/css/google-fonts.css" rel="stylesheet" type="text/css" />
-    <link href="resources/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
-    <link href="resources/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="../resources/css/google-fonts.css" rel="stylesheet" type="text/css" />
+    <link href="../resources/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+    <link href="../resources/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <!-- END GLOBAL MANDATORY STYLES -->
     <!-- BEGIN THEME GLOBAL STYLES -->
-    <link href="resources/css/components-md.css" rel="stylesheet" id="style_components" type="text/css" />
+    <link href="../resources/css/components-md.css" rel="stylesheet" id="style_components" type="text/css" />
     <!-- END THEME GLOBAL STYLES -->
     <!-- BEGIN PAGE LEVEL STYLES -->
-    <link href="resources/css/login.min.css" rel="stylesheet" type="text/css" />
+    <link href="../resources/css/login.min.css" rel="stylesheet" type="text/css" />
     <!-- END PAGE LEVEL STYLES -->
-    <link rel="shortcut icon" href="favicon.ico" />
+    <link rel="shortcut icon" href="../resources/favicon.ico" />
 </head>
 <body class=" login">
 <!-- BEGIN LOGO -->
 <div class="logo">
     <a href="index.html">
-        <img src="resources/images/logo-big.png" alt="" /> </a>
+        <img src="../resources/images/logo-big.png" alt="" /> </a>
 </div>
 <!-- END LOGO -->
 <!-- BEGIN LOGIN -->
@@ -68,27 +68,27 @@
 <!-- END LOGIN -->
 
 <!-- BEGIN COPYRIGHT -->
-<div class="copyright"> 2017 &copy; wjj - 后台管理系统. </div>
+<div class="copyright"> 2018 &copy; wjj - 后台管理系统. </div>
 <!-- END COPYRIGHT -->
 
 <!--[if lt IE 9]>
-<script src="resources/plugins/respond.min.js"></script>
-<script src="resources/plugins/excanvas.min.js"></script>
+<script src="../resources/plugins/respond.min.js"></script>
+<script src="../resources/plugins/excanvas.min.js"></script>
 <![endif]-->
 <!-- BEGIN CORE PLUGINS -->
-<script src="resources/js/jquery.min.js" type="text/javascript"></script>
-<script src="resources/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
-<script src="resources/plugins/js.cookie.min.js" type="text/javascript"></script>
+<script src="../resources/js/jquery.min.js" type="text/javascript"></script>
+<script src="../resources/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="../resources/plugins/js.cookie.min.js" type="text/javascript"></script>
 <!-- END CORE PLUGINS -->
 <!-- BEGIN PAGE LEVEL PLUGINS -->
-<script src="resources/plugins/jquery-validation/js/jquery.validate.min.js" type="text/javascript"></script>
-<script src="resources/plugins/backstretch/jquery.backstretch.min.js" type="text/javascript"></script>
+<script src="../resources/plugins/jquery-validation/js/jquery.validate.min.js" type="text/javascript"></script>
+<script src="../resources/plugins/backstretch/jquery.backstretch.min.js" type="text/javascript"></script>
 <!-- END PAGE LEVEL PLUGINS -->
 <!-- BEGIN THEME GLOBAL SCRIPTS -->
-<script src="resources/js/app.min.js" type="text/javascript"></script>
+<script src="../resources/js/app.min.js" type="text/javascript"></script>
 <!-- END THEME GLOBAL SCRIPTS -->
 <!-- BEGIN PAGE LEVEL SCRIPTS -->
-<script src="resources/js/login.min.js" type="text/javascript"></script>
+<script src="../resources/js/login.min.js" type="text/javascript"></script>
 <!-- END PAGE LEVEL SCRIPTS -->
 </body>
 </html>
